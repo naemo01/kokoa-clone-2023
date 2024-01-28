@@ -1,3 +1,3 @@
 # kokoa-clone-2023
 
-HTML got
+CSS got so much
